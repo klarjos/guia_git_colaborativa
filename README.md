@@ -4,6 +4,11 @@ parejas.
 ## Objetivo 
 Aprender a usar ramas y merges. 
 
+# Conceptos básicos de Git 
+- Repositorio
+- Commit
+- Rama
+- Merge 
 ## Flujo de trabajo básico 
 1. Editar archivos
 2. git add
